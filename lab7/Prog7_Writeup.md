@@ -2,4 +2,4 @@
 
 1. Topology :
   
-[img](/lab7/)
+[img](/lab7/prog7-topolgy.png)
