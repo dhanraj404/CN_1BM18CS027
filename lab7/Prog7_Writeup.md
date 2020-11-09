@@ -2,4 +2,4 @@
 
 1. Topology :
   
-[img](/lab7/prog7-topolgy.png)
+[img](https://github.com/dhanraj404/CN_1BM18CS027/blob/master/lab7/prog7-topolgy.png)
