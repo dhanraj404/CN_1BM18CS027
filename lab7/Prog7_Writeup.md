@@ -9,3 +9,5 @@
  ![pc0 Ping](/lab7/pc0-ping.png)
  
  ![pc1 Ping](/lab7/pc1-ping.png)
+ 
+ 
