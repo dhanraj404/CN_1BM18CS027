@@ -18,7 +18,7 @@ if __name__ == "__main__":
         if (input_size <= size_left):
             storage += input_size
             print("Buffer Size = {0} Bucket Size = {1}".format(storage, bucket_size))
-            print(input_size, "bytes Sent")
+            print(input_size-output_size if (input_size>output_size) else input_size , "bytes Sent")
         else:
             print("OverFlow")
             print("Packet Loss = {0} bytes lost".format(input_size-size_left))
